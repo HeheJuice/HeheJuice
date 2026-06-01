@@ -4,8 +4,6 @@
   <a href='https://t.me/channelhehejuice'><img alt='TG' height='35' src='./Images/TG.png'/></a>
 </p>
 
- #### From Hong Kong China 
-
  #### Playing with OneUI Modification 
 
  #### Some Devices I own
