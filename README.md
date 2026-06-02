@@ -1,9 +1,5 @@
 ## 你好 • Hi There 👀
 
-<p align="left">
-  <a href='https://t.me/channelhehejuice'><img alt='TG' height='35' src='./Images/TG.png'/></a>
-</p>
-
  #### Playing with OneUI Modification 
 
  #### Some Devices I own
