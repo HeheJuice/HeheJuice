@@ -1,5 +1,10 @@
 ## 你好 • Hi There 👀
 
+<div align="left">
+  <h3>🎵 YOASOBIの「アドレナ」</h3>
+  <audio controls src="アドレナ.mp4"></audio>
+</div>
+
  #### Playing with OneUI Modification 
 
  #### Some Devices I own
