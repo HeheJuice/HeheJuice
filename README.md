@@ -1,4 +1,4 @@
-## 你好 • Hi There 👀
+## 你好 👀
 
 • 🌐 Chinese OR English 
 
