@@ -9,7 +9,7 @@
 
 ### Some of My Public Projects
 [![OneUILockscreenFontEXT](https://img.shields.io/badge/OneUI_Lockscreen_Font_EXT-Unleash_Creativity-5967C0?logo=samsung&logoColor=white&style=for-the-badge)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT)
-[![ONEUIOVENUI](https://img.shields.io/badge/OvenUI-Upstream_Galaxy_A03s_Software_To_OneUI_6.1-0481FF?logo=samsung&logoColor=white&style=for-the-badge)](https://github.com/HeheJuice/OneUI-OvenUI)
+[![ONEUIOVENUI](https://img.shields.io/badge/OvenUI-Upstream_Galaxy_A03s_Software_To_OneUI_6.1-0481FF?logo=samsung&logoColor=white&style=for-the-badge)](https://github.com/HeheJuice/OvenUI-OneUI)
 
 ### Working On?
 ![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor-Update_Blobs_From_New_Galaxy-5967C0?logo=samsung&logoColor=white&style=for-the-badge)
