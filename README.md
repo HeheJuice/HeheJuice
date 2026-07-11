@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi There 👋
+  # Hi There • 你好 👋
 
 ### System that I like to Modify or Using?
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
