@@ -24,5 +24,8 @@
 ![HappyCadogt](https://img.shields.io/badge/HappyCadogt-Best_Sticker_from_bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
 ![Chinese](https://img.shields.io/badge/中文-我是會中文的哦-4285F4?logo=googletranslate&logoColor=white&style=for-the-badge)
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4BEFEFE&center=true&vCenter=true&width=600&lines=一人+背負い続けてきたんだよね;どんな時も;ねえ+忘れないで;どこに居ても;君のことを想う人がいること;明日が見えないほどの闇夜に;迷い込んでしまっても;ほらね+必ず;見つけ出すから;一人じゃないよ;強く結んだ一直線;飛び出した包囲網;そう+何度離れても;また此処で会えると;信じていたよ;この街を覆ったあの雲を;一緒に穿つんだ;ねえ+いつの日か;きっときっと;寄り添い並ぶ;あの星のように;どれだけ時が過ぎても;たとえ+どれだけ離れていても;君は+一人きりじゃないんだよ;かざす指先でほら+なぞれば;私+もう涙見せないから;私+誰より強くなるから;いつかこの空が晴れた日には;また一緒に笑い合える;そう信じてる)
+
+
 
 </div>
