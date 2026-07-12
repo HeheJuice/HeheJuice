@@ -18,6 +18,6 @@
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-FF8DA1?logo=android&logoColor=white&style=for-the-badge)
 
 ### Tags Related to Me
-![Shark](https://img.shields.io/badge/IKEA_SHARK-BEST-0058A3?logo=ikea&logoColor=white&style=for-the-badge)
+![Shark](https://img.shields.io/badge/IKEA_SHARK-•-Blåhaj-BEST-0058A3?logo=ikea&logoColor=white&style=for-the-badge)
 ![HaopyCadogt](https://img.shields.io/badge/HappyCadogt-I_Consider_the_best_sticker_pack_from_bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
 </div>
