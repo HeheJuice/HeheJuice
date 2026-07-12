@@ -18,7 +18,7 @@
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-FF8DA1?logo=android&logoColor=white&style=for-the-badge)
 
 #### Tags Related to Me - Random and Off-Topic
-![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-BEST-0058A3?logo=ikea&logoColor=white&style=for-the-badge)
+![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-0058A3?logo=ikea&logoColor=white&style=for-the-badge)
 ![IG](https://img.shields.io/badge/Instagram-An_Essential_App_In_My_life-FF0069?logo=Instagram&logoColor=white&style=for-the-badge)
 ![HappyCadogt](https://img.shields.io/badge/HappyCadogt-Best_Sticker_from_bilibili_that_i_like-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
 ![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-ff0000?logo=youtubemusic&logoColor=white&style=for-the-badge)
