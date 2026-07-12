@@ -22,7 +22,7 @@
 ![IG](https://img.shields.io/badge/Instagram-A_Essential_App_In_My_life-FF0069?logo=Instagram&logoColor=white&style=for-the-badge)
 ![HappyCadogt](https://img.shields.io/badge/HappyCadogt-I_Consider_the_best_sticker_pack_from_bilibili_Creator_HappyCadogt-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
 ![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-ff0000?logo=youtubemusic&logoColor=white&style=for-the-badge)
-![MIHOYO](https://img.shields.io/badge/Games_from_mihoyo_when-:3-4EA4DD?logo=mihoyo&logoColor=white&style=for-the-badge)
+![MIHOYO](https://img.shields.io/badge/Games_from_mihoyo_when-Great_for_my_mental_health-4EA4DD?logo=mihoyo&logoColor=white&style=for-the-badge)
 
 
 </div>
