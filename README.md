@@ -16,6 +16,6 @@
 ![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor-Update_Blobs_From_New_Galaxy-0481FF?logo=samsung&logoColor=white&style=for-the-badge)
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-5967C0?logo=android&logoColor=white&style=for-the-badge)
 ### Language?
-![Cus](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-5967C0?logo=android&logoColor=white&style=for-the-badge)
+![English](https://img.shields.io/badge/English-5967C0?&style=for-the-badge)
 ![Chinese](https://img.shields.io/badge/中文-5967C0?&style=for-the-badge)
 </div>
