@@ -9,7 +9,6 @@
 ![AOSP](https://img.shields.io/badge/AOSP-50f270?logo=android&logoColor=black&style=for-the-badge)
 
 ### System that I Managed to Boot and like?
-#### *Leave OneUI When🥴
 ![FlymeOS](https://img.shields.io/badge/FlymeOS-FF4132?logo=meizu&logoColor=white&style=for-the-badge)
 ![ColorOS](https://img.shields.io/badge/ColorOS-2D683D?logo=OPPO&logoColor=white&style=for-the-badge)
 ![OxygenOS](https://img.shields.io/badge/OxygenOS-2D683D?logo=OPPO&logoColor=white&style=for-the-badge)
