@@ -17,7 +17,7 @@
 [![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor_Build-Update_and_port_Blobs_From_New_Galaxy-FFCE1B?logo=samsung&logoColor=white&style=for-the-badge)](https://github.com/HeheJuice/OvenUI_OneUI)
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-FF8DA1?logo=android&logoColor=white&style=for-the-badge)
 
-### Tags Related to Me
+### Tags Related to Me - Random 
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-BEST-0058A3?logo=ikea&logoColor=white&style=for-the-badge)
 ![HaopyCadogt](https://img.shields.io/badge/HappyCadogt-I_Consider_the_best_sticker_pack_from_bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
 ![IG](https://img.shields.io/badge/Instagram-A_Essential_App_In_My_life-FF0069?logo=Instagram&logoColor=white&style=for-the-badge)
