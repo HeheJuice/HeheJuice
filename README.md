@@ -17,5 +17,5 @@
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-FF8DA1?logo=android&logoColor=white&style=for-the-badge)
 ### Language?
 ![English](https://img.shields.io/badge/English-5967C0?&style=for-the-badge)
-![Chinese](https://img.shields.io/badge/中文-5967C0?&style=for-the-badge)
+![Chinese](https://img.shields.io/badge/中文-FA5053?&style=for-the-badge)
 </div>
