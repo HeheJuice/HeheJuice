@@ -21,7 +21,7 @@
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-0058A3?logo=ikea&logoColor=white&style=for-the-badge)
 ![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-ff0000?logo=youtubemusic&logoColor=white&style=for-the-badge)
 ![IG](https://img.shields.io/badge/Instagram-An_Essential_App_In_My_life-FF0069?logo=Instagram&logoColor=white&style=for-the-badge)
-![HappyCadogt](https://img.shields.io/badge/HappyCadogt-Best_Sticker_from_bilibili_that_i_like-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
+![HappyCadogt](https://img.shields.io/badge/HappyCadogt-Best_Sticker_from_bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
 ![MIHOYO](https://img.shields.io/badge/Games_from_mihoyo!-Great_for_my_mental_health-4EA4DD?logo=mihoyo&logoColor=white&style=for-the-badge)
 ![Chinese](https://img.shields.io/badge/中文-我是會中文的哦-4285F4?logo=googletranslate&logoColor=white&style=for-the-badge)
 
