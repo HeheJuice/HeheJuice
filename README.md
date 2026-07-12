@@ -19,6 +19,6 @@
 
 #### Tags Related to Me - Random 
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-BEST-0058A3?logo=ikea&logoColor=white&style=for-the-badge)
-![HaopyCadogt](https://img.shields.io/badge/HappyCadogt-I_Consider_the_best_sticker_pack_from_bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
+![HappyCadogt](https://img.shields.io/badge/HappyCadogt-I_Consider_the_best_sticker_pack_from_bilibili_Creator_With_same_name_as_the_sticker-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
 ![IG](https://img.shields.io/badge/Instagram-A_Essential_App_In_My_life-FF0069?logo=Instagram&logoColor=white&style=for-the-badge)
 </div>
