@@ -8,11 +8,11 @@
 ![LineageOS](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=white&style=for-the-badge)
 ![AOSP](https://img.shields.io/badge/AOSP-50f270?logo=android&logoColor=black&style=for-the-badge)
 
-### Some of My Public Projects
+### Some of My Public Projects - Private Projects Hidden 
 [![OneUILockscreenFontEXT](https://img.shields.io/badge/OneUI_Lockscreen_Font_EXT-Unleash_Your_Creativity-5967C0?logo=samsung&logoColor=white&style=for-the-badge)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT)
 [![ONEUIOVENUI](https://img.shields.io/badge/OvenUI-New_And_Light_Weight_Unofficial_OneUI_Updates_For_A037_Series-0481FF?logo=samsung&logoColor=white&style=for-the-badge)](https://github.com/HeheJuice/OvenUI_OneUI)
 
-### Working On?
+### Working On? - Creating New Unnecessary Stuff lmao
 
 [![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor_Build-Update_and_port_Blobs_From_New_Galaxy-FFCE1B?logo=samsung&logoColor=white&style=for-the-badge)](https://github.com/HeheJuice/OvenUI_OneUI)
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-FF8DA1?logo=android&logoColor=white&style=for-the-badge)
