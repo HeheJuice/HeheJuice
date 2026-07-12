@@ -14,7 +14,7 @@
 
 ### Working On?
 ![Overlay](https://img.shields.io/badge/Unofficial_OneUI_Theme-Based_On_Root_With_System_Level_Overlay-2D68C4?logo=samsung&logoColor=white&style=for-the-badge)
-![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor-Update_and_port_Blobs_From_New_Galaxy-FFCE1B?logo=samsung&logoColor=white&style=for-the-badge)
+[![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor-Update_and_port_Blobs_From_New_Galaxy-FFCE1B?logo=samsung&logoColor=white&style=for-the-badge)](https://github.com/HeheJuice/OvenUI_OneUI)
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-FF8DA1?logo=android&logoColor=white&style=for-the-badge)
 
 </div>
