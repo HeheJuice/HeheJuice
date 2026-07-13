@@ -20,7 +20,7 @@
 #### Tags Related to Me or I am Interested [* ≠ My Product]
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-0058A3?logo=ikea&logoColor=white&style=for-the-badge)
 ![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-ff0000?logo=youtubemusic&logoColor=white&style=for-the-badge)
-![thread](https://img.shields.io/badge/Thread-open_after_close_lmao-000000?logo=Instagram&logoColor=white&style=for-the-badge)
+![thread](https://img.shields.io/badge/Thread-open_after_close_lmao-000000?logo=thread&logoColor=white&style=for-the-badge)
 ![IG](https://img.shields.io/badge/Instagram-An_Essential_App_In_My_life-FF0069?logo=Instagram&logoColor=white&style=for-the-badge)
 ![HappyCadogt](https://img.shields.io/badge/HappyCadogt-Best_Sticker_from_bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)
 ![Chinese](https://img.shields.io/badge/中文-我是會中文的哦-4285F4?logo=googletranslate&logoColor=white&style=for-the-badge)
