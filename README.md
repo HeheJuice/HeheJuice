@@ -2,7 +2,7 @@
   
   # Hi There • 你好 👋
 
-#### System that I Modify or Using?
+#### System,OS Or UI that I Modify or Using?
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
 ![OneUI](https://img.shields.io/badge/OneUI-0481FF?logo=samsung&logoColor=white&style=for-the-badge)
 ![LineageOS](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=white&style=for-the-badge)
