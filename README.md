@@ -26,6 +26,6 @@
 ![Chinese](https://img.shields.io/badge/中文-我是會中文的哦-4285F4?logo=googletranslate&logoColor=white&style=for-the-badge)
 
 #### Commit History Display 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HeheJuice&theme=codeSTACKr&bg_color=FFE6EA&icon_color=AA336A&title_color=AA336A&hide_border=true&radius=16&l" width="97.5%" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HeheJuice&theme=codeSTACKr&bg_color=FFE6EA&icon_color=AA336A&title_color=AA336A&hide_border=true&radius=16&l"/>
 
 </div>
