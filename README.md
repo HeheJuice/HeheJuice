@@ -16,6 +16,7 @@
 ![Overlay](https://img.shields.io/badge/Custom_OneUI_Theme-Based_On_Root_With_System_Level_Overlay-844265?logo=samsung&logoColor=FFE6EA&style=for-the-badge)
 [![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor_Build-Update_Blobs_From_New_Galaxy-D3618C?logo=samsung&logoColor=FFE6EA&style=for-the-badge)](https://github.com/HeheJuice/OvenUI_OneUI)
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-AA336A?logo=android&logoColor=FFE6EA&style=for-the-badge)
+![TTF](https://img.shields.io/badge/TTF-Font_File_Rebuild-AA336A?logo=googlefonts&logoColor=FFE6EA&style=for-the-badge)
 
 #### Tags Related to Me or I am Interested [* ≠ My Product] 🥰
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-5C2542?logo=ikea&logoColor=FFE6EA&style=for-the-badge)
