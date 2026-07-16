@@ -18,6 +18,8 @@
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-AA336A?logo=android&logoColor=FFE6EA&style=for-the-badge)
 ![TTF](https://img.shields.io/badge/TTF-Font_File_Rebuild-AA336A?logo=googlefonts&logoColor=FFE6EA&style=for-the-badge)
 
+#### Things I would like to say?
+![Statement](https://img.shields.io/badge/My_Stance_of_each_product-Visable_in_my_repo-AA336A?&logoColor=FFE6EA&style=for-the-badge)
 #### Tags Related to Me or I am Interested [* ≠ My Product] 🥰
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-5C2542?logo=ikea&logoColor=FFE6EA&style=for-the-badge)
 ![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-AA336A?logo=youtubemusic&logoColor=FFE6EA&style=for-the-badge)
