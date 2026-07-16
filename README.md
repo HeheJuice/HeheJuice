@@ -19,7 +19,7 @@
 ![TTF](https://img.shields.io/badge/TTF-Font_File_Rebuild-D3618C?logo=googlefonts&logoColor=FFE6EA&style=for-the-badge)
 
 #### Things I would like to say?
-![Statement](https://img.shields.io/badge/My_Stance_of_each_product-Visable_in_my_repo-AA336A?logoColor=FFE6EA&style=for-the-badge)
+![Statement](https://img.shields.io/badge/My_Stance_on_each_product-Visable_in_my_repo-AA336A?logoColor=FFE6EA&style=for-the-badge)
 ![Guide](https://img.shields.io/badge/Read_Guides_in_my_repo_when_using-they_are_all_exhaustive-5C2542?logoColor=FFE6EA&style=for-the-badge)
 
 #### Tags Related to Me or I am Interested [* ≠ My Product] 🥰
