@@ -20,6 +20,7 @@
 
 #### Things I would like to say?
 ![Statement](https://img.shields.io/badge/My_Stance_of_each_product-Visable_in_my_repo-AA336A?&logoColor=FFE6EA&style=for-the-badge)
+![Guide](https://img.shields.io/badge/Read_Guides_in_my_repo_when_using-they_are_all_exhaustive-AA336A?&logoColor=FFE6EA&style=for-the-badge)
 #### Tags Related to Me or I am Interested [* ≠ My Product] 🥰
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-5C2542?logo=ikea&logoColor=FFE6EA&style=for-the-badge)
 ![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-AA336A?logo=youtubemusic&logoColor=FFE6EA&style=for-the-badge)
