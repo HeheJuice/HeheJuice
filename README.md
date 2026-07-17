@@ -14,7 +14,7 @@
 
 #### Working On? - Creating New Unnecessary Stuff lmao 😋
 ![Overlay](https://img.shields.io/badge/Custom_OneUI_Theme-Based_On_Root_With_System_Level_Overlay-5C2542?logo=samsung&logoColor=FFE6EA&style=for-the-badge)
-[![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor_Build-Update_Blobs_From_New_Galaxy-AA336A?logo=samsung&logoColor=FFE6EA&style=for-the-badge)](https://github.com/HeheJuice/OvenUI_OneUI)
+[![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor_Build-Update_Blobs_From_New_Galaxy-AA336A?logo=samsung&logoColor=FFE6EA&style=for-the-badge)](https://github.com/HeheJuice/Galaxy_A037_Vendor_Development)
 ![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibility-844265?logo=android&logoColor=FFE6EA&style=for-the-badge)
 ![TTF](https://img.shields.io/badge/TTF-Font_File_Rebuild-D3618C?logo=googlefonts&logoColor=FFE6EA&style=for-the-badge)
 
