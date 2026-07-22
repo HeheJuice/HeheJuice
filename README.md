@@ -9,12 +9,7 @@
 ![AOSP](https://img.shields.io/badge/AOSP-844265?logo=android&logoColor=FFE6EA&style=for-the-badge)
 
 #### 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐎𝐧? - 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐧𝐞𝐰 𝐮𝐧𝐧𝐞𝐜𝐞𝐬𝐬𝐚𝐫𝐲 𝐬𝐭𝐮𝐟𝐟 𝐥𝐦𝐚𝐨 😋
-[![OneUILockscreenFontEXT](https://img.shields.io/badge/OneUI_Lockscreen_Font_EXT-Unleash_Your_Creativity-D3618C?logo=samsung&logoColor=FFE6EA&style=for-the-badge)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT)
-![Overlay](https://img.shields.io/badge/Custom_OneUI_Theme-Based_On_Root_With_System_Level_Overlay-5C2542?logo=samsung&logoColor=FFE6EA&style=for-the-badge)
-[![ONEUIOVENUI](https://img.shields.io/badge/OvenUI-Light_Weight_Unofficial_OneUI_Port_For_A03s-844265?logo=samsung&logoColor=FFE6EA&style=for-the-badge)](https://github.com/HeheJuice/OvenUI_OneUI)
-[![A03sVendor](https://img.shields.io/badge/Galaxy_A03s_Vendor_Build-Update_Blobs_From_New_Galaxy-AA336A?logo=samsung&logoColor=FFE6EA&style=for-the-badge)](https://github.com/HeheJuice/Galaxy_A037_Vendor_Development)
-![Customization](https://img.shields.io/badge/Android_Customization-Rooted_With_Infinite_Possibilities-844265?logo=android&logoColor=FFE6EA&style=for-the-badge)
-![TTF](https://img.shields.io/badge/TTF-Font_File_Rebuild-D3618C?logo=googlefonts&logoColor=FFE6EA&style=for-the-badge)
+[![AndroidMod](https://img.shields.io/badge/Android_Modify-Patching_Android_especially_OneUI-D3618C?logo=samsung&logoColor=FFE6EA&style=for-the-badge)]
 
 #### 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐰𝐨𝐮𝐥𝐝 𝐥𝐢𝐤𝐞 𝐭𝐨 𝐬𝐚𝐲:
 ![Statement](https://img.shields.io/badge/My_stance_on_each_product-Visible_in_my_repo-AA336A?logoColor=FFE6EA&style=for-the-badge)
