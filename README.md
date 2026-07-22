@@ -9,7 +9,7 @@
 ![AOSP](https://img.shields.io/badge/AOSP-844265?logo=android&logoColor=FFE6EA&style=for-the-badge)
 
 #### 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐎𝐧? - 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐧𝐞𝐰 𝐮𝐧𝐧𝐞𝐜𝐞𝐬𝐬𝐚𝐫𝐲 𝐬𝐭𝐮𝐟𝐟 𝐥𝐦𝐚𝐨 😋
-[![AndroidMod](https://img.shields.io/badge/Android_Modify-Patching_Android_especially_OneUI-D3618C?logo=samsung&logoColor=FFE6EA&style=for-the-badge)]
+![AndroidMod](https://img.shields.io/badge/Android_Modify-Patching_Android_especially_OneUI-D3618C?logo=samsung&logoColor=FFE6EA&style=for-the-badge)
 
 #### 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐰𝐨𝐮𝐥𝐝 𝐥𝐢𝐤𝐞 𝐭𝐨 𝐬𝐚𝐲:
 ![Statement](https://img.shields.io/badge/My_stance_on_each_product-Visible_in_my_repo-AA336A?logoColor=FFE6EA&style=for-the-badge)
