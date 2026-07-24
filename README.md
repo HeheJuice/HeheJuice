@@ -11,10 +11,6 @@
 #### 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐎𝐧? - 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐧𝐞𝐰 𝐮𝐧𝐧𝐞𝐜𝐞𝐬𝐬𝐚𝐫𝐲 𝐬𝐭𝐮𝐟𝐟 𝐥𝐦𝐚𝐨 😋
 ![AndroidMod](https://img.shields.io/badge/Android_Modify-Patching_Android_especially_OneUI-D3618C?logo=samsung&logoColor=FFE6EA&style=for-the-badge)
 
-#### 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐰𝐨𝐮𝐥𝐝 𝐥𝐢𝐤𝐞 𝐭𝐨 𝐬𝐚𝐲:
-![Statement](https://img.shields.io/badge/My_stance_on_each_product-Visible_in_my_repo-AA336A?logoColor=FFE6EA&style=for-the-badge)
-![Guide](https://img.shields.io/badge/Read_guides_in_my_repo_when_using-they_are_all_exhaustive-5C2542?logoColor=FFE6EA&style=for-the-badge)
-
 #### 𝐓𝐚𝐠𝐬 𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐨 𝐌𝐞 (𝐨𝐫 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈'𝐦 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐈𝐧) [* ≠ 𝐌𝐲 𝐏𝐫𝐨𝐝𝐮𝐜𝐭] 🥰
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-844265?logo=ikea&logoColor=FFE6EA&style=for-the-badge)
 ![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-D3618C?logo=youtubemusic&logoColor=FFE6EA&style=for-the-badge)
