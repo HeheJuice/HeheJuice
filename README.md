@@ -14,8 +14,6 @@
 #### 𝐓𝐚𝐠𝐬 𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐨 𝐌𝐞 (𝐨𝐫 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈'𝐦 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐈𝐧) [* ≠ 𝐌𝐲 𝐏𝐫𝐨𝐝𝐮𝐜𝐭] 🥰
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-844265?logo=ikea&logoColor=FFE6EA&style=for-the-badge)
 ![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-D3618C?logo=youtubemusic&logoColor=FFE6EA&style=for-the-badge)
-![threads](https://img.shields.io/badge/Threads-open_after_close_lmao-5C2542?logo=threads&logoColor=FFE6EA&style=for-the-badge)
-![IG](https://img.shields.io/badge/Instagram-An_Essential_App_In_My_Life-AA336A?logo=Instagram&logoColor=FFE6EA&style=for-the-badge)
 ![HappyCadogt](https://img.shields.io/badge/HappyCadogt-Best_Sticker_from_bilibili-844265?logo=bilibili&logoColor=FFE6EA&style=for-the-badge)
 ![Chinese](https://img.shields.io/badge/中文-我是會中文的哦-D3618C?logo=googletranslate&logoColor=FFE6EA&style=for-the-badge)
 
