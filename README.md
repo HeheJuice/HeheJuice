@@ -1,24 +1,25 @@
 <div align="center">
   
-  # 𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 • 你好 👋
+  # Hi There • 你好 👋
 
-#### 𝐒𝐲𝐬𝐭𝐞𝐦, 𝐎𝐒, 𝐨𝐫 𝐔𝐈 𝐭𝐡𝐚𝐭 𝐈 𝐦𝐨𝐝𝐢𝐟𝐲 𝐨𝐫 𝐮𝐬𝐞? 🤔
+#### System,UI or OS that I modify or use? 🤔
 ![Android](https://img.shields.io/badge/Android-5C2542?logo=android&logoColor=FFE6EA&style=for-the-badge)
 ![OneUI](https://img.shields.io/badge/OneUI-AA336A?logo=samsung&logoColor=FFE6EA&style=for-the-badge)
 ![LineageOS](https://img.shields.io/badge/LineageOS-D3618C?logo=lineageos&logoColor=FFE6EA&style=for-the-badge)
 ![AOSP](https://img.shields.io/badge/AOSP-844265?logo=android&logoColor=FFE6EA&style=for-the-badge)
 
-#### 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐎𝐧? - 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐧𝐞𝐰 𝐮𝐧𝐧𝐞𝐜𝐞𝐬𝐬𝐚𝐫𝐲 𝐬𝐭𝐮𝐟𝐟 𝐥𝐦𝐚𝐨 😋
-![AndroidMod](https://img.shields.io/badge/Android_Modify-Patching_Android_especially_OneUI-D3618C?logo=samsung&logoColor=FFE6EA&style=for-the-badge)
+#### Working On? - Creating Unnecessary Stuff lmao😋
+![MainProject](https://img.shields.io/badge/Main_Project-OneUI_Settings_Hook-D3618C?logo=samsung&logoColor=FFE6EA&style=for-the-badge)
+![AndroidMod](https://img.shields.io/badge/Android_Modify-Patching_Android_especially_OneUI-844265?logo=samsung&logoColor=FFE6EA&style=for-the-badge)
 
-#### 𝐓𝐚𝐠𝐬 𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐨 𝐌𝐞 (𝐨𝐫 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈'𝐦 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐈𝐧) [* ≠ 𝐌𝐲 𝐏𝐫𝐨𝐝𝐮𝐜𝐭] 🥰
+#### Tags Related (or Things I am interested) [* ≠ My Product] 🥰
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-844265?logo=ikea&logoColor=FFE6EA&style=for-the-badge)
 ![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-D3618C?logo=youtubemusic&logoColor=FFE6EA&style=for-the-badge)
 ![HappyCadogt](https://img.shields.io/badge/HappyCadogt-Best_Sticker_from_bilibili-844265?logo=bilibili&logoColor=FFE6EA&style=for-the-badge)
 ![Chinese](https://img.shields.io/badge/中文-我是會中文的哦-D3618C?logo=googletranslate&logoColor=FFE6EA&style=for-the-badge)
 
 
-#### 𝐂𝐨𝐦𝐦𝐢𝐭 𝐇𝐢𝐬𝐭𝐨𝐫𝐲 𝐃𝐢𝐬𝐩𝐥𝐚𝐲 🫡
+#### Commit History Display 🫡
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HeheJuice&theme=codeSTACKr&bg_color=FFE6EA&icon_color=AA336A&title_color=AA336A&hide_border=true&radius=16&l"/>
 
 </div>
