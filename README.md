@@ -14,12 +14,7 @@
 
 #### Tags Related (or Things I am interested) [* ≠ My Product] 🥰
 ![Shark](https://img.shields.io/badge/IKEA_SHARK_•_Blåhaj-844265?logo=ikea&logoColor=FFE6EA&style=for-the-badge)
-![Music](https://img.shields.io/badge/YOASOBI-OMG_THAT'S_PEAK-D3618C?logo=youtubemusic&logoColor=FFE6EA&style=for-the-badge)
 ![HappyCadogt](https://img.shields.io/badge/HappyCadogt-Best_Sticker_from_bilibili-844265?logo=bilibili&logoColor=FFE6EA&style=for-the-badge)
 ![Chinese](https://img.shields.io/badge/中文-我是會中文的哦-D3618C?logo=googletranslate&logoColor=FFE6EA&style=for-the-badge)
-
-
-#### Commit History Display 🫡
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HeheJuice&theme=codeSTACKr&bg_color=FFE6EA&icon_color=AA336A&title_color=AA336A&hide_border=true&radius=16&l"/>
 
 </div>
